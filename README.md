@@ -2,8 +2,6 @@
 
 Welcome to the Task Manager App repository! This application helps you manage your tasks efficiently and stay organized. Whether you're a student, professional, or anyone who needs to keep track of their tasks, this app is here to simplify your life.
 
-![Task Manager App Demo]
-
 ## Features
 
 - **User-friendly Interface:** Intuitive design for easy navigation and task management.
